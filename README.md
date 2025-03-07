@@ -1,6 +1,6 @@
 <html>
 <body>
-  
+  <link rel="icon" href="/favicon.ico">
 <h1>
   <em>## Hi there 👋</em>
 </h1>
